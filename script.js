@@ -1,5 +1,7 @@
 let shoppingcard = [
   {
+
+    
     Name: "JBL speaker",
     Details:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita laborum, vitae neque  ",
@@ -72,7 +74,7 @@ shoppingcard.map((value, index) => {
   });
 
 
-  
+
 
   display.innerHTML += `
 
