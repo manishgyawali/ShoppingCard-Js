@@ -71,9 +71,6 @@ shoppingcard.map((value, index) => {
       `;
   });
 
-
-
-
   display.innerHTML += `
 
 <div class="main">
